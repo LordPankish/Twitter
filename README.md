@@ -1,6 +1,6 @@
 # Twitter
 
-**Alat untuk crack akun Twitter login menggunakan Authorization twitter untuk cara mendapatkan nya :** https://youtube.com/rozhakid
+**  Alat untuk crack akun Twitter login menggunakan Authorization twitter untuk cara mendapatkan nya :** https://youtube.com/rozhakid
 
 # Screenshot
 ![IMG_20220412_053054](https://user-images.githubusercontent.com/65714340/163077300-f78594ef-6e38-404c-bff0-5529c87bface.jpg)
@@ -26,4 +26,5 @@
     $ cythonize -i Twitter.cpp
     $ python Run.py
 # Apikey
- **Cara mendapatkan Apikey anda harus memilih nomor dua untuk registrasi website nya! Jika sudah anda memiliki nomor satu untuk upgrade ke Premium member trial tidak bisa menggunakan alat ini!!!**
+
+**  Cara mendapatkan Apikey anda harus memilih nomor dua untuk registrasi website nya! Jika sudah anda memiliki nomor satu untuk upgrade ke Premium member trial tidak bisa menggunakan alat ini!!!**
