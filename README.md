@@ -28,4 +28,4 @@
 # Apikey
 
 ![Screenshot_2022-04-13-08-00-37-78_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/65714340/163078518-ad96df86-6d5d-4c06-8138-b5e20889e573.png)
-**Cara mendapatkan Apikey anda harus memilih nomor dua untuk registrasi website nya! Jika sudah anda memiliki nomor satu untuk upgrade ke Premium member trial tidak bisa menggunakan alat ini!!!**
+**Cara mendapatkan Apikey anda harus memilih nomor dua untuk registrasi website nya! Jika sudah anda memiliki nomor satu untuk upgrade ke Premium atau langsung di websitenya member trial tidak bisa menggunakan alat ini!!!**
