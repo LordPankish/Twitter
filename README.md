@@ -1,5 +1,6 @@
 # Twitter
 
+![Screenshot_2022-04-13-08-05-20-72_84d3000e3f4017145260f7618db1d683](https://user-images.githubusercontent.com/65714340/163078914-9ec9fc65-8448-459e-a527-9a914b04a1b3.png)
 **Alat untuk crack akun Twitter login menggunakan Authorization twitter untuk cara mendapatkan nya :** https://youtube.com/rozhakid
 
 # Screenshot
